@@ -1,0 +1,7 @@
+# Spotify Adium Autoplay
+
+Allows to automatically play spotify uri found in adium messages
+
+Just double click AutoSpotify.AdiumPlugin to install,
+
+Take a look at Automator share-song.workflow to automatically share currently played song
