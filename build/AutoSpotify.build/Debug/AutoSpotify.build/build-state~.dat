@@ -1,0 +1,237 @@
+TAutoSpotify
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/Debug/AutoSpotify.AdiumPlugin/Contents/Info.plist /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/AutoSpotify/AutoSpotify-Info.plist
+cProcessPCH /var/folders/c2/zlv6hgy1557g81vqrh412q4c0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AutoSpotify-Prefix-bzvxygsuvgucyfabpsrsgucbdlpj/AutoSpotify-Prefix.pch.pch AutoSpotify/AutoSpotify-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AutoSpotify.build/Debug/AutoSpotify.build/Objects-normal/x86_64/AutoSpotify.o /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/AutoSpotify.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/Debug/AutoSpotify.AdiumPlugin/Contents/MacOS/AutoSpotify normal x86_64
+cCopyStringsFile /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/Debug/AutoSpotify.AdiumPlugin/Contents/Resources/en.lproj/InfoPlist.strings AutoSpotify/en.lproj/InfoPlist.strings
+cTouch /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/Debug/AutoSpotify.AdiumPlugin
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005243E79F00000000000000AA
+t1380181919
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052AFB69C000000000000044C
+t1387247260
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052AFB69C00000000000001DB
+t1387247260
+s475
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000052AFB69E000000000000253C
+t1387247262
+s9532
+
+N/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/AIUtilities.framework/AIUtilities
+c0000000052B0C97F00000000001ADD2C
+t1387317631
+s1760556
+
+N/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/Adium.framework/Adium
+c0000000052B0C99B00000000002785B8
+t1387317659
+s2590136
+
+N/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/AutoSpotify.m
+c0000000052B0CF100000000000000102
+t1387319056
+s258
+
+N/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/AutoSpotify/AutoSpotify-Info.plist
+c0000000052B0CAAD0000000000000400
+t1387317933
+s1024
+
+N/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/AutoSpotify/AutoSpotify-Prefix.pch
+c0000000052B0CE2300000000000000FE
+t1387318819
+s254
+
+N/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/AutoSpotify/en.lproj/InfoPlist.strings
+c0000000052B0CA28000000000000002D
+t1387317800
+s45
+
+N/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/AutoSpotify.build/Debug/AutoSpotify.build/Objects-normal/x86_64/AutoSpotify.LinkFileList
+c0000000052B0DA240000000000000085
+t1387321892
+s133
+
+N/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/AutoSpotify.build/Debug/AutoSpotify.build/Objects-normal/x86_64/AutoSpotify.o
+t1387321897
+s9584
+
+N/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/Debug/AutoSpotify.AdiumPlugin
+t1387321892
+s102
+
+N/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/Debug/AutoSpotify.AdiumPlugin/Contents/Info.plist
+t1387321892
+s1371
+
+N/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/Debug/AutoSpotify.AdiumPlugin/Contents/MacOS/AutoSpotify
+t1387321897
+s9456
+
+N/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/Debug/AutoSpotify.AdiumPlugin/Contents/Resources/en.lproj/InfoPlist.strings
+t1387321897
+s92
+
+N/var/folders/c2/zlv6hgy1557g81vqrh412q4c0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AutoSpotify-Prefix-bzvxygsuvgucyfabpsrsgucbdlpj/AutoSpotify-Prefix.pch.pch
+t1387321896
+s13724296
+
+CBuild AST from /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/AutoSpotify.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies062d00a41161b841^819329a41161b841^---0#1#1#--18"Check dependencies36"51D0B671-83FA-4189-9A05-E8559F1B8073-
+
+CCompileC build/AutoSpotify.build/Debug/AutoSpotify.build/Objects-normal/x86_64/AutoSpotify.o /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/AutoSpotify.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s409014696.894767
+e409014697.018179
+r1
+xCompileC
+xbuild/AutoSpotify.build/Debug/AutoSpotify.build/Objects-normal/x86_64/AutoSpotify.o
+x/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/AutoSpotify.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/AutoSpotify.m
+d/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/AutoSpotify.h
+d/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/Adium.framework/Headers/AIPlugin.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/AutoSpotify.m176"CompileC build/AutoSpotify.build/Debug/AutoSpotify.build/Objects-normal/x86_64/AutoSpotify.o AutoSpotify.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler3b37e5a81161b841^452f0ba91161b841^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/AutoSpotify.m0000000000000000^3245"CompileC build/AutoSpotify.build/Debug/AutoSpotify.build/Objects-normal/x86_64/AutoSpotify.o AutoSpotify.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/AutoSpotify.build/Debug/AutoSpotify.build/AutoSpotify-generated-files.hmap -I/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/AutoSpotify.build/Debug/AutoSpotify.build/AutoSpotify-own-target-headers.hmap -I/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/AutoSpotify.build/Debug/AutoSpotify.build/AutoSpotify-all-target-headers.hmap -iquote /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/AutoSpotify.build/Debug/AutoSpotify.build/AutoSpotify-project-headers.hmap -I/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/AutoSpotify.build/Debug/AutoSpotify.build/DerivedSources/x86_64 -I/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/AutoSpotify.build/Debug/AutoSpotify.build/DerivedSources -F/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/Debug -F/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify -include /var/folders/c2/zlv6hgy1557g81vqrh412q4c0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AutoSpotify-Prefix-bzvxygsuvgucyfabpsrsgucbdlpj/AutoSpotify-Prefix.pch -MMD -MT dependencies -MF /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/AutoSpotify.build/Debug/AutoSpotify.build/Objects-normal/x86_64/AutoSpotify.d --serialize-diagnostics /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/AutoSpotify.build/Debug/AutoSpotify.build/Objects-normal/x86_64/AutoSpotify.dia -c /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/AutoSpotify.m -o /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/AutoSpotify.build/Debug/AutoSpotify.build/Objects-normal/x86_64/AutoSpotify.o36"1BD558E9-F9B5-445C-A96C-529F0EF028A0-
+b38F242E9-2E2C-4CBA-9565-866FDFF16DEC
+
+CCopyStringsFile /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/Debug/AutoSpotify.AdiumPlugin/Contents/Resources/en.lproj/InfoPlist.strings AutoSpotify/en.lproj/InfoPlist.strings
+s409014697.646980
+e409014697.670652
+r1
+xCopyStringsFile
+x/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/Debug/AutoSpotify.AdiumPlugin/Contents/Resources/en.lproj/InfoPlist.strings
+xAutoSpotify/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy AutoSpotify/en.lproj/InfoPlist.strings136"CopyStringsFile build/Debug/AutoSpotify.AdiumPlugin/Contents/Resources/en.lproj/InfoPlist.strings AutoSpotify/en.lproj/InfoPlist.strings4eb6a5a91161b841^5bb1aba91161b841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/AutoSpotify/en.lproj/InfoPlist.strings0000000000000000^438"CopyStringsFile build/Debug/AutoSpotify.AdiumPlugin/Contents/Resources/en.lproj/InfoPlist.strings AutoSpotify/en.lproj/InfoPlist.strings    cd /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/Debug/AutoSpotify.AdiumPlugin/Contents/Resources/en.lproj -- AutoSpotify/en.lproj/InfoPlist.strings36"07707B84-7576-4BFC-994A-14F868E59241-
+b38F242E9-2E2C-4CBA-9565-866FDFF16DEC
+
+CLd /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/Debug/AutoSpotify.AdiumPlugin/Contents/MacOS/AutoSpotify normal x86_64
+s409014697.019264
+e409014697.645849
+r1
+xLd
+x/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/Debug/AutoSpotify.AdiumPlugin/Contents/MacOS/AutoSpotify
+xnormal
+xx86_64
+d/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/AutoSpotify.build/Debug/AutoSpotify.build/Objects-normal/x86_64/AutoSpotify.LinkFileList
+d/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/AutoSpotify.build/Debug/AutoSpotify.build/Objects-normal/x86_64/AutoSpotify.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/Adium.framework/Adium
+d/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/AIUtilities.framework/AIUtilities
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Link /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/Debug/AutoSpotify.AdiumPlugin/Contents/MacOS/AutoSpotify79"Ld build/Debug/AutoSpotify.AdiumPlugin/Contents/MacOS/AutoSpotify normal x86_648e0505a91161b841^de57a5a91161b841^---0#0#1#--1150"Ld build/Debug/AutoSpotify.AdiumPlugin/Contents/MacOS/AutoSpotify normal x86_64    cd /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/Debug -F/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/Debug -F/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify -filelist /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/AutoSpotify.build/Debug/AutoSpotify.build/Objects-normal/x86_64/AutoSpotify.LinkFileList -mmacosx-version-min=10.9 -fobjc-arc -fobjc-link-runtime -framework Cocoa -framework Adium -framework AIUtilities -Xlinker -dependency_info -Xlinker /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/AutoSpotify.build/Debug/AutoSpotify.build/Objects-normal/x86_64/AutoSpotify_dependency_info.dat -o /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/Debug/AutoSpotify.AdiumPlugin/Contents/MacOS/AutoSpotify36"53286944-D2B1-4A66-A32E-9686530CCCCD-
+b38F242E9-2E2C-4CBA-9565-866FDFF16DEC
+
+CProcessInfoPlistFile /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/Debug/AutoSpotify.AdiumPlugin/Contents/Info.plist /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/AutoSpotify/AutoSpotify-Info.plist
+s409014692.163322
+e409014692.166922
+r1
+xProcessInfoPlistFile
+x/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/Debug/AutoSpotify.AdiumPlugin/Contents/Info.plist
+x/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/AutoSpotify/AutoSpotify-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Process /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/AutoSpotify/AutoSpotify-Info.plist111"ProcessInfoPlistFile build/Debug/AutoSpotify.AdiumPlugin/Contents/Info.plist AutoSpotify/AutoSpotify-Info.plist96252aa41161b841^af072ba41161b841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/AutoSpotify/AutoSpotify-Info.plist0000000000000000^427"ProcessInfoPlistFile build/Debug/AutoSpotify.AdiumPlugin/Contents/Info.plist AutoSpotify/AutoSpotify-Info.plist    cd /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify    builtin-infoPlistUtility /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/AutoSpotify/AutoSpotify-Info.plist -expandbuildsettings -platform macosx -o /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/Debug/AutoSpotify.AdiumPlugin/Contents/Info.plist36"8A2F98D3-C60C-4A3E-9009-754EC4305A2D-
+b38F242E9-2E2C-4CBA-9565-866FDFF16DEC
+
+CProcessPCH /Users/Elyx0/Library/Developer/Xcode/DerivedData/AutoSpotify-axyqaqumfdcfrzcqbvkyucwtsxxa/Index/PrecompiledHeaders/AutoSpotify-Prefix-ecgriaptpentrsezvwjdvvzqbldg_ast/AutoSpotify-Prefix.pch.pch AutoSpotify/AutoSpotify-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/c2/zlv6hgy1557g81vqrh412q4c0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AutoSpotify-Prefix-bzvxygsuvgucyfabpsrsgucbdlpj/AutoSpotify-Prefix.pch.pch AutoSpotify/AutoSpotify-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s409014692.168280
+e409014696.893552
+r1
+xProcessPCH
+x/var/folders/c2/zlv6hgy1557g81vqrh412q4c0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AutoSpotify-Prefix-bzvxygsuvgucyfabpsrsgucbdlpj/AutoSpotify-Prefix.pch.pch
+xAutoSpotify/AutoSpotify-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/AutoSpotify/AutoSpotify-Prefix.pch
+d/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/Adium.framework/Headers/AISharedAdium.h
+d/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/Adium.framework/Headers/AIAdiumProtocol.h
+d/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/AIUtilities.framework/Headers/AIStringUtilities.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile AutoSpotify/AutoSpotify-Prefix.pch308"ProcessPCH /var/folders/c2/zlv6hgy1557g81vqrh412q4c0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AutoSpotify-Prefix-bzvxygsuvgucyfabpsrsgucbdlpj/AutoSpotify-Prefix.pch.pch AutoSpotify/AutoSpotify-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler003b2ba41161b841^05c0e4a81161b841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/AutoSpotify/AutoSpotify-Prefix.pch0000000000000000^3383"ProcessPCH /var/folders/c2/zlv6hgy1557g81vqrh412q4c0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AutoSpotify-Prefix-bzvxygsuvgucyfabpsrsgucbdlpj/AutoSpotify-Prefix.pch.pch AutoSpotify/AutoSpotify-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/AutoSpotify.build/Debug/AutoSpotify.build/AutoSpotify-generated-files.hmap -I/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/AutoSpotify.build/Debug/AutoSpotify.build/AutoSpotify-own-target-headers.hmap -I/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/AutoSpotify.build/Debug/AutoSpotify.build/AutoSpotify-all-target-headers.hmap -iquote /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/AutoSpotify.build/Debug/AutoSpotify.build/AutoSpotify-project-headers.hmap -I/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/AutoSpotify.build/Debug/AutoSpotify.build/DerivedSources/x86_64 -I/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/AutoSpotify.build/Debug/AutoSpotify.build/DerivedSources -F/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/Debug -F/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify --serialize-diagnostics /var/folders/c2/zlv6hgy1557g81vqrh412q4c0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AutoSpotify-Prefix-bzvxygsuvgucyfabpsrsgucbdlpj/AutoSpotify-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/c2/zlv6hgy1557g81vqrh412q4c0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AutoSpotify-Prefix-bzvxygsuvgucyfabpsrsgucbdlpj/AutoSpotify-Prefix.pch.d -c /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/AutoSpotify/AutoSpotify-Prefix.pch -o /var/folders/c2/zlv6hgy1557g81vqrh412q4c0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AutoSpotify-Prefix-bzvxygsuvgucyfabpsrsgucbdlpj/AutoSpotify-Prefix.pch.pch36"EAAE41EE-E3C3-486C-A351-3923A5ECE6D4-
+b38F242E9-2E2C-4CBA-9565-866FDFF16DEC
+
+CTouch /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/Debug/AutoSpotify.AdiumPlugin
+s409014697.671297
+e409014697.720233
+r1
+xTouch
+x/Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/Debug/AutoSpotify.AdiumPlugin
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Touch /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/Debug/AutoSpotify.AdiumPlugin41"Touch build/Debug/AutoSpotify.AdiumPluginf3e7aba91161b841^4963b8a91161b841^---0#0#1#--205"Touch build/Debug/AutoSpotify.AdiumPlugin    cd /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify    /usr/bin/touch -c /Users/Elyx0/Sites/adium/AutoSpotify/AutoSpotify/build/Debug/AutoSpotify.AdiumPlugin36"1726A893-9210-4922-853D-7521933CE290-
+b38F242E9-2E2C-4CBA-9565-866FDFF16DEC
+
